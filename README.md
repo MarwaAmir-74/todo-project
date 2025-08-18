@@ -6,6 +6,7 @@ Built with **React**, **TypeScript**, and **Vite**, styled with **Tailwind CSS**
 ---
 
 ## 🚀 Features  
+- 🌙 Dark Mode support
 - ➕ Add new tasks  
 - ✔️ Mark tasks as completed  
 - 🗑️ Delete tasks  
@@ -39,3 +40,4 @@ npm install
 
 # 4. Start the development server
 npm run dev
+
